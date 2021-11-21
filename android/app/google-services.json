@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902412002750",
+    "project_id": "proffus-7a5d7",
+    "storage_bucket": "proffus-7a5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902412002750:android:de9f59a079e15c665b05ef",
+        "android_client_info": {
+          "package_name": "com.proffus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902412002750-452krvmd26ghjkd5t7oq7udq9j8dh2qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJV0vWrltq1kf15LwfLAed2jRRvgUHXJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902412002750-452krvmd26ghjkd5t7oq7udq9j8dh2qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
